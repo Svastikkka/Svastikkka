@@ -16,18 +16,6 @@ Software developer in Bengaluru, India. I design, build and maintain systems on 
 
 ---
 
-## 🌍 Open-source contributions
-
-| Project | Pull request | Status |
-|---|---|---|
-| [pypa/pipx](https://github.com/pypa/pipx) | [#2217](https://github.com/pypa/pipx/pull/2217) Refuse an empty `--index-url` instead of using the default index | ✅ Merged |
-| [pypa/pyproject-hooks](https://github.com/pypa/pyproject-hooks) | [#246](https://github.com/pypa/pyproject-hooks/pull/246) Load `backend-path` backends named like an already imported module | 🔄 In review |
-| [OpenMS/OpenMS](https://github.com/OpenMS/OpenMS) | [#10777](https://github.com/OpenMS/OpenMS/pull/10777) FeatureFinderIdentification: keep the chromatograms for `-chrom_out` | 🔄 In review |
-| [OWASP/pytm](https://github.com/OWASP/pytm) | [#374](https://github.com/OWASP/pytm/pull/374) Keep explicit dataflow values when `check()` applies defaults | 🔄 In review |
-| [wagtail/Willow](https://github.com/wagtail/Willow) | [#194](https://github.com/wagtail/Willow/pull/194) Log optimizer failures without a traceback and skip pngquant exit 98 | 🔄 In review |
-
----
-
 ## 🛠️ Things I've built
 
 **Infrastructure and DevOps**
