@@ -39,7 +39,7 @@ Software developer in Bengaluru, India. I design, build and maintain systems on 
 
 ## 🧰 Tech I work with
 
-`Python` `Go` `C` `TypeScript` `Java` · `AWS` `Azure` `GCP` · `Docker` `Kubernetes` `Helm` `Terraform` `Ansible` · `Chrome Extensions`
+`Python` `C` `TypeScript` · `AWS` `Azure` `GCP` · `Docker` `Kubernetes` `Helm` `Terraform` `Ansible` · `Chrome Extensions`
 
 ---
 
